@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="MyRequests">ec8c81d583374214fe8f1f65eeaad378</ais_search_source>
+        <label>MyRequests</label>
+        <name>MyRequests</name>
+        <order>100</order>
+        <search_context_config display_value="MyRequest Eform AI Search Configuration">d49e79ddc03b821451f08a68a4138424</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-02 20:48:37</sys_created_on>
+        <sys_id>e99e7ddd833b8214fe8f1f65eeaad3b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyRequests</sys_name>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>sys_search_filter_e99e7ddd833b8214fe8f1f65eeaad3b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-02 20:48:37</sys_updated_on>
+    </sys_search_filter>
+</record_update>

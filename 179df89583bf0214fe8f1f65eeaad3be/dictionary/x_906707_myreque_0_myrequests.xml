@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="e79ac11583374214fe8f1f65eeaad3b2" extends="task" label="MyRequests" max_length="40" name="x_906707_myreque_0_myrequests" text_index="true" type="collection">
+        <element label="Application" max_length="32" name="application" reference="cmdb_ci_business_app" type="reference"/>
+        <element label="Functional Approver" max_length="32" name="functional_approver" reference="sys_user" type="reference"/>
+    </element>
+</database>
