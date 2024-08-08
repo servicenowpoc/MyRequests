@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="">037c01d5e837421447258c872c42c5ab</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-02 17:09:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8b7c01d5f1374214b1238b34fe6ecd9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_page_property_8b7c01d5f1374214b1238b34fe6ecd9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-02 17:09:45</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_906707_myreque_0.037c01d5e837421447258c872c42c5ab.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</application>
+        <file_path/>
+        <instance_id>9449ecb0db96f998f697684e1396191f</instance_id>
+        <instance_name>dev200100</instance_name>
+        <name>sys_ux_page_property_8b7c01d5f1374214b1238b34fe6ecd9b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="">037c01d5e837421447258c872c42c5ab</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-02 17:09:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>8b7c01d5f1374214b1238b34fe6ecd9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package><sys_policy/><sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope><sys_update_name>sys_ux_page_property_8b7c01d5f1374214b1238b34fe6ecd9b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-02 17:09:45</sys_updated_on><type>json</type><unique_name>x_906707_myreque_0.037c01d5e837421447258c872c42c5ab.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>452411553</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>07f63a2283330210fe8f1f65eeaad364</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-06 22:07:25</sys_created_on>
+        <sys_id>d310627e83ff0610fe8f1f65eeaad34c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19129bb95480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>9310627eeeff06100184f07e75e5d34c</update_guid>
+        <update_guid_history>9310627eeeff06100184f07e75e5d34c:452411553</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 15:05:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>5233a94994634e85b32db80f722fab39</sys_id>
+        <sys_metadata>8b7c01d5f1374214b1238b34fe6ecd9b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">37f72c9712234e6599b0a07dd84a1361</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_8b7c01d5f1374214b1238b34fe6ecd9b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_8b7c01d5f1374214b1238b34fe6ecd9b">d310627e83ff0610fe8f1f65eeaad34c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 15:05:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

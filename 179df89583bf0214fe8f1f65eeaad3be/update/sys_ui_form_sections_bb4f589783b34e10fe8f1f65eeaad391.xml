@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="bb4f589783b34e10fe8f1f65eeaad391" sys_domain="global" table="x_906707_myreque_0_myrequests" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-08 19:00:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b4f589783b34e10fe8f1f65eeaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_906707_myreque_0_myrequests" name="x_906707_myreque_0_myrequests" sys_domain="global" view="Default view">bb4f589783b34e10fe8f1f65eeaad391</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_906707_myreque_0_myrequests" sys_domain="global" view="Default view">7b4fd49783b34e10fe8f1f65eeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-08 19:00:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-08 19:00:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>774f589783b34e10fe8f1f65eeaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_906707_myreque_0_myrequests" name="x_906707_myreque_0_myrequests" sys_domain="global" view="Default view">bb4f589783b34e10fe8f1f65eeaad391</sys_ui_form>
+            <sys_ui_section caption="MyRequests" display_value="MyRequests" name="x_906707_myreque_0_myrequests" sys_domain="global" view="Default view">44aa051983bf0214fe8f1f65eeaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-08 19:00:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_906707_myreque_0_myrequests</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-08 19:00:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb4f589783b34e10fe8f1f65eeaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_906707_myreque_0_myrequests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bb4f589783b34e10fe8f1f65eeaad391</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-08 19:00:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

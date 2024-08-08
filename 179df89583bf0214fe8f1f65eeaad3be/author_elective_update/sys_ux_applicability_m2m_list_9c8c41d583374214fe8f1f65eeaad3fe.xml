@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="Audience for app myrequest-eform">088c41d583374214fe8f1f65eeaad3b2</applicability>
+        <list/>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-02 17:09:48</sys_created_on>
+        <sys_id>9c8c41d583374214fe8f1f65eeaad3fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_9c8c41d583374214fe8f1f65eeaad3fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-02 17:09:48</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</application>
+        <file_path/>
+        <instance_id>9449ecb0db96f998f697684e1396191f</instance_id>
+        <instance_name>dev200100</instance_name>
+        <name>sys_ux_applicability_m2m_list_9c8c41d583374214fe8f1f65eeaad3fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Audience for app myrequest-eform">088c41d583374214fe8f1f65eeaad3b2</applicability><list/><order>100</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-02 17:09:48</sys_created_on><sys_id>9c8c41d583374214fe8f1f65eeaad3fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package><sys_policy/><sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_9c8c41d583374214fe8f1f65eeaad3fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-02 17:09:48</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>-340658794</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f1c2d6ea837b0a10fe8f1f65eeaad375</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 15:05:57</sys_created_on>
+        <sys_id>f610227e83ff0610fe8f1f65eeaad3b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1912d6014d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 15:05:57</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>b210227e97ff0610fa8d3113ff9c62b4</update_guid>
+        <update_guid_history>b210227e97ff0610fa8d3113ff9c62b4:0,5c8c41d5ef374214b86b5a5ed77c03ff:-340180465</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 15:05:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>74b0672def6249a183aca8b80a64d349</sys_id>
+        <sys_metadata>9c8c41d583374214fe8f1f65eeaad3fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">37f72c9712234e6599b0a07dd84a1361</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_9c8c41d583374214fe8f1f65eeaad3fe</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_9c8c41d583374214fe8f1f65eeaad3fe">f610227e83ff0610fe8f1f65eeaad3b4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 15:05:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

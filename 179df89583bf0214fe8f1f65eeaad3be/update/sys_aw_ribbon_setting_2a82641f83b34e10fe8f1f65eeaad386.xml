@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_ribbon_setting">
+    <sys_aw_ribbon_setting action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <attrs/>
+        <component display_value="CMDB Timeline">f62d039773102300ee4dd3c72bf6a741</component>
+        <experience_restricted>true</experience_restricted>
+        <is_inheritable>false</is_inheritable>
+        <name>CMDB Timeline</name>
+        <order>0</order>
+        <sys_class_name>sys_aw_ribbon_setting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-08 19:14:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2a82641f83b34e10fe8f1f65eeaad386</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CMDB Timeline</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>sys_aw_ribbon_setting_2a82641f83b34e10fe8f1f65eeaad386</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-08 19:14:22</sys_updated_on>
+        <table>x_906707_myreque_0_myrequests</table>
+        <tag>sn-cmdb-timeline-card</tag>
+        <width>2</width>
+        <workspace/>
+    </sys_aw_ribbon_setting>
+    <sys_variable_value action="delete_multiple" query="document_key=2a82641f83b34e10fe8f1f65eeaad386"/>
+</record_update>

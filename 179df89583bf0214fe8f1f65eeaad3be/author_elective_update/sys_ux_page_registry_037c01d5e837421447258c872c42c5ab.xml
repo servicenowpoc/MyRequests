@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>c37c01d50f3742148e89cc1c7c42bcab</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>myrequest-eform</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-02 17:09:44</sys_created_on>
+        <sys_id>037c01d5e837421447258c872c42c5ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyRequest Eform</sys_name>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>sys_ux_page_registry_037c01d5e837421447258c872c42c5ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-02 17:09:44</sys_updated_on>
+        <title>MyRequest Eform</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</application>
+        <file_path/>
+        <instance_id>9449ecb0db96f998f697684e1396191f</instance_id>
+        <instance_name>dev200100</instance_name>
+        <name>sys_ux_page_registry_037c01d5e837421447258c872c42c5ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>c37c01d50f3742148e89cc1c7c42bcab</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>myrequest-eform</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-02 17:09:44</sys_created_on><sys_id>037c01d5e837421447258c872c42c5ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MyRequest Eform</sys_name><sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package><sys_policy/><sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope><sys_update_name>sys_ux_page_registry_037c01d5e837421447258c872c42c5ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-02 17:09:44</sys_updated_on><title>MyRequest Eform</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1535578406</payload_hash>
+        <record_name>MyRequest Eform</record_name>
+        <reverted_from/>
+        <source>07f63a2283330210fe8f1f65eeaad364</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-06 22:07:25</sys_created_on>
+        <sys_id>8b10227e83ff0610fe8f1f65eeaad3fe</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19129bb95480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>4b10227e0aff0610c128c04643efe0fe</update_guid>
+        <update_guid_history>4b10227e0aff0610c128c04643efe0fe:1535578406</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 15:05:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>056af3457a0a414eb47ea5b078d99fe1</sys_id>
+        <sys_metadata>037c01d5e837421447258c872c42c5ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyRequest Eform</sys_name>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">37f72c9712234e6599b0a07dd84a1361</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_037c01d5e837421447258c872c42c5ab</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_037c01d5e837421447258c872c42c5ab">8b10227e83ff0610fe8f1f65eeaad3fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 15:05:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
