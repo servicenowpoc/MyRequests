@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="x_906707_myreque_0.admin" name="x_906707_myreque_0.admin">139d3c9583bf0214fe8f1f65eeaad344</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-12 18:57:15</sys_created_on>
+        <sys_id>7ff4cd6483c41210fe8f1f65eeaad3e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.x_906707_myreque_0.admin</sys_name>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>sys_user_role_contains_7ff4cd6483c41210fe8f1f65eeaad3e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-12 18:57:15</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
