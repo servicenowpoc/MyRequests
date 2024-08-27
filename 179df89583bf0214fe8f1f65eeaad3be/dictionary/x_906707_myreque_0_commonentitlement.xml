@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2de1aa59835cd610fe8f1f65eeaad394" label="CommonEntitlement" max_length="40" name="x_906707_myreque_0_commonentitlement" type="collection">
+        <element label="AppID" max_length="40" name="appid" type="string"/>
+        <element label="Employee" max_length="40" name="employee" type="string"/>
+        <element label="RequestID" max_length="40" name="requestid" type="string"/>
+        <element label="Role" max_length="40" name="role" type="string"/>
+    </element>
+</database>
