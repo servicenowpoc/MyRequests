@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="30a9103b83c0de90fe8f1f65eeaad3eb" label="ApplicationRoles" max_length="40" name="x_906707_myreque_0_applicationroles" type="collection">
+        <element label="Application" max_length="32" name="application" reference="cmdb_ci_business_app" type="reference"/>
+        <element display="true" label="RoleName" max_length="40" name="rolename" type="string"/>
+        <index name="index">
+            <element name="application"/>
+        </index>
+    </element>
+</database>
