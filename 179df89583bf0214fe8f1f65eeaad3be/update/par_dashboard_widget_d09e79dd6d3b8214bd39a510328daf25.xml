@@ -2,8 +2,8 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">909e79dd863b82148dde70adc845cc26</canvas>
         <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
-        <component_props>{"table":"x_906707_myreque_0_myrequests","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":""}</component_props>
-        <h>15</h>
+        <component_props>{"table":"x_906707_myreque_0_myrequests","fixedQuery":"stateNOT IN3,4,7","listTitle":"My Work","columns":"application.name,number,applicationrole.rolename","query":"active=true^opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":"","id":"columns","value":"application.name,number,applicationrole.rolename","propLabel":"Columns"}</component_props>
+        <h>12</h>
         <name/>
         <stored_component/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
@@ -12,7 +12,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d09e79dd6d3b8214bd39a510328daf25</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
@@ -20,11 +20,11 @@
         <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
         <sys_update_name>par_dashboard_widget_d09e79dd6d3b8214bd39a510328daf25</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-16 17:37:44</sys_updated_on>
+        <sys_updated_on>2024-09-03 19:34:44</sys_updated_on>
         <visualization/>
-        <w>40</w>
+        <w>43</w>
         <widget_props/>
         <x>0</x>
-        <y>41</y>
+        <y>0</y>
     </par_dashboard_widget>
 </record_update>

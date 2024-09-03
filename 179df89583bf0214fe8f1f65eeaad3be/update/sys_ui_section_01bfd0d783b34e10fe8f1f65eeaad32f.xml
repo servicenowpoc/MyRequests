@@ -4,13 +4,13 @@
             <element>application</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-08-22 18:27:31</sys_created_on>
-            <sys_id>e91e5cff83c0de90fe8f1f65eeaad3b9</sys_id>
+            <sys_created_on>2024-09-03 19:56:40</sys_created_on>
+            <sys_id>789526ef83909e50fe8f1f65eeaad32b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Access Details" display_value="Access Details" name="x_906707_myreque_0_myrequests" sys_domain="global" view="549e79ddc33b82145a5c4f055bfdc223">01bfd0d783b34e10fe8f1f65eeaad32f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-08-22 18:27:31</sys_updated_on>
+            <sys_updated_on>2024-09-03 19:56:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>applicationrole</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-08-22 18:27:31</sys_created_on>
-            <sys_id>e51e5cff83c0de90fe8f1f65eeaad3ba</sys_id>
+            <sys_created_on>2024-09-03 19:56:40</sys_created_on>
+            <sys_id>709526ef83909e50fe8f1f65eeaad32c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Access Details" display_value="Access Details" name="x_906707_myreque_0_myrequests" sys_domain="global" view="549e79ddc33b82145a5c4f055bfdc223">01bfd0d783b34e10fe8f1f65eeaad32f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-08-22 18:27:31</sys_updated_on>
+            <sys_updated_on>2024-09-03 19:56:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>short_description</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-08-22 18:27:31</sys_created_on>
-            <sys_id>ed1e5cff83c0de90fe8f1f65eeaad3ba</sys_id>
+            <sys_created_on>2024-09-03 19:56:40</sys_created_on>
+            <sys_id>789526ef83909e50fe8f1f65eeaad32c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Access Details" display_value="Access Details" name="x_906707_myreque_0_myrequests" sys_domain="global" view="549e79ddc33b82145a5c4f055bfdc223">01bfd0d783b34e10fe8f1f65eeaad32f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-08-22 18:27:31</sys_updated_on>
+            <sys_updated_on>2024-09-03 19:56:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>description</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-08-22 18:27:31</sys_created_on>
-            <sys_id>e51e5cff83c0de90fe8f1f65eeaad3bb</sys_id>
+            <sys_created_on>2024-09-03 19:56:40</sys_created_on>
+            <sys_id>709526ef83909e50fe8f1f65eeaad32d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Access Details" display_value="Access Details" name="x_906707_myreque_0_myrequests" sys_domain="global" view="549e79ddc33b82145a5c4f055bfdc223">01bfd0d783b34e10fe8f1f65eeaad32f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-08-22 18:27:31</sys_updated_on>
+            <sys_updated_on>2024-09-03 19:56:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,29 +60,15 @@
             <element>work_notes</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-08-22 18:27:31</sys_created_on>
-            <sys_id>ed1e5cff83c0de90fe8f1f65eeaad3bb</sys_id>
+            <sys_created_on>2024-09-03 19:56:40</sys_created_on>
+            <sys_id>789526ef83909e50fe8f1f65eeaad32d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Access Details" display_value="Access Details" name="x_906707_myreque_0_myrequests" sys_domain="global" view="549e79ddc33b82145a5c4f055bfdc223">01bfd0d783b34e10fe8f1f65eeaad32f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-08-22 18:27:31</sys_updated_on>
+            <sys_updated_on>2024-09-03 19:56:40</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-08-22 18:27:31</sys_created_on>
-            <sys_id>e51e5cff83c0de90fe8f1f65eeaad3bc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
-            <sys_ui_section caption="Access Details" display_value="Access Details" name="x_906707_myreque_0_myrequests" sys_domain="global" view="549e79ddc33b82145a5c4f055bfdc223">01bfd0d783b34e10fe8f1f65eeaad32f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-08-22 18:27:31</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Access Details</caption>

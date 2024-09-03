@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">909e79dd863b82148dde70adc845cc26</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"MyRequests","sourceType":"table","tableOrViewName":"x_906707_myreque_0_myrequests","filterQuery":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","id":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGt4TnpJeU9BPT0xNjUzODQyMzE4NDk1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT","filterConfigurations":[],"componentId":"jxatvugt","id":"allowChangeDateRange","value":false,"noDebounce":true,"propLabel":"Allow change date range","showDateRangeByDefault":false,"allowChangeDateRange":false}</component_props>
+        <h>5</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-02 20:48:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d89e79ddfc3b82143feeca6b56f7b723</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>par_dashboard_widget_d89e79ddfc3b82143feeca6b56f7b723</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 19:27:08</sys_updated_on>
+        <visualization/>
+        <w>1</w>
+        <widget_props/>
+        <x>0</x>
+        <y>35</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</application>
+        <file_path/>
+        <instance_id>9449ecb0db96f998f697684e1396191f</instance_id>
+        <instance_name>dev200100</instance_name>
+        <name>par_dashboard_widget_d89e79ddfc3b82143feeca6b56f7b723</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">909e79dd863b82148dde70adc845cc26</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"MyRequests","sourceType":"table","tableOrViewName":"x_906707_myreque_0_myrequests","filterQuery":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","id":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGt4TnpJeU9BPT0xNjUzODQyMzE4NDk1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT","filterConfigurations":[],"componentId":"jxatvugt","id":"allowChangeDateRange","value":false,"noDebounce":true,"propLabel":"Allow change date range","showDateRangeByDefault":false,"allowChangeDateRange":false}</component_props><h>5</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-02 20:48:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d89e79ddfc3b82143feeca6b56f7b723</sys_id><sys_mod_count>8</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package><sys_policy/><sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope><sys_update_name>par_dashboard_widget_d89e79ddfc3b82143feeca6b56f7b723</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 19:27:08</sys_updated_on><visualization/><w>1</w><widget_props/><x>0</x><y>35</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1521648825</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f1c2d6ea837b0a10fe8f1f65eeaad375</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 19:27:08</sys_created_on>
+        <sys_id>54de966b83509e50fe8f1f65eeaad3ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b95ae8fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 19:27:08</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>98de966b43509e5062b80f382de593ab</update_guid>
+        <update_guid_history>98de966b43509e5062b80f382de593ab:-1521648825,a32a56e373dc5e504429a6d797dda5e4:-2020526809,0ef71a67b49c5e505b30c13d10c9270c:-1840009868,83e79667059c5e5047ef3622e13acae4:689232920,0d871e27159c5e50163e42164dcb0f1f:-266763598,fd2991b98cc4121094f86584622e127a:-869156278,b588157949c412109b469053ca9e5eb1:746127299,d99e3ddd963b8214d7f6db11fb902e92:-1238867979,d19e3ddd693b82140d497c0948bca08f:1820975252</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">cd4f566f83509e50fe8f1f65eeaad3ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 19:29:07</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>48d4f766774a412db4f54180ebe433f1</sys_id>
+        <sys_metadata>d89e79ddfc3b82143feeca6b56f7b723</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_scope_delete display_value="">37f72c9712234e6599b0a07dd84a1361</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_d89e79ddfc3b82143feeca6b56f7b723</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_d89e79ddfc3b82143feeca6b56f7b723">54de966b83509e50fe8f1f65eeaad3ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 19:29:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
