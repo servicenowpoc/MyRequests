@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="c1bb1a998398d610fe8f1f65eeaad31c" label="IPTable" max_length="40" name="x_906707_myreque_0_iptable" type="collection">
-        <element label="IPAddress" max_length="40" name="ipaddress" type="string"/>
-    </element>
-</database>
