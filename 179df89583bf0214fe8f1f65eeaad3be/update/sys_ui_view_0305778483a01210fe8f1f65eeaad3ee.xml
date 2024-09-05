@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>PlaybookView</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 15:00:51</sys_created_on>
+        <sys_id>0305778483a01210fe8f1f65eeaad3ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PlaybookView</sys_name>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>sys_ui_view_0305778483a01210fe8f1f65eeaad3ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 15:00:51</sys_updated_on>
+        <title>PlaybookView</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
