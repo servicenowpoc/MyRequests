@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <http_method>GET</http_method>
+        <name>list</name>
+        <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+
+       try {
+        // Get the current user making the request
+        //var userSysId = gs.getUserID();
+        
+        // Fetch the query parameter 'state', if it exists
+        //var stateParam = request.getQueryParameter('state');
+        
+        // Query the Approval Task table (sysapproval_approver)
+        var approvalTaskGR = new GlideRecord('sysapproval_approver');
+        //approvalTaskGR.addQuery('approver', userSysId);
+        
+            // Default to 'requested' state if no state is provided
+            approvalTaskGR.addQuery('state', 'requested');
+			approvalTaskGR.addQuery('source_table', 'x_906707_myreque_0_myrequests');
+        
+        approvalTaskGR.query();
+
+        // Collect the results
+        var approvals = [];
+        while (approvalTaskGR.next()) {
+            approvals.push({
+                "task_number": approvalTaskGR.sysapproval.number.toString(),
+                "approval_state": approvalTaskGR.state.toString(),
+                "approval_user": approvalTaskGR.approver.name.toString(),
+                "approval_created": approvalTaskGR.sys_created_on.toString(),
+            });
+        }
+
+        // Build the response body
+        var responseBody = {
+            "approvals": approvals
+        };
+        
+        // Set the response content type and body
+        response.setContentType('application/json');
+        response.setStatus(200);
+        response.setBody(responseBody);
+
+    } catch (error) {
+        // Handle any errors and return a 500 status
+        response.setStatus(500);
+        response.setBody(JSON.stringify({error: error.message}));
+		
+    }
+
+
+
+
+
+
+})(request, response);]]></operation_script>
+        <operation_uri>/api/x_906707_myreque_0/getmytasks/list</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/list</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 17:28:08</sys_created_on>
+        <sys_id>39c2c1c683f01a50fe8f1f65eeaad335</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_package display_value="MyRequest Eform" source="x_906707_myreque_0">179df89583bf0214fe8f1f65eeaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyRequest Eform">179df89583bf0214fe8f1f65eeaad3be</sys_scope>
+        <sys_update_name>sys_ws_operation_39c2c1c683f01a50fe8f1f65eeaad335</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:24:47</sys_updated_on>
+        <web_service_definition display_value="GetMyTasks">6682014683f01a50fe8f1f65eeaad39f</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>39c2c1c683f01a50fe8f1f65eeaad335</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 17:28:07</sys_created_on>
+        <sys_id>235349c683f01a50fe8f1f65eeaad3bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 17:28:07</sys_updated_on>
+        <table>sys_ws_operation</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
